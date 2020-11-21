@@ -1,4 +1,4 @@
 On Windows Desktop Open the Link https://raw.githubusercontent.com/eSupportCorp/win10hardening/main/stable
-Copy the contents as .bat to any Windows Folder of your choice
+Copy the contents as 'secure.bat' to any Windows Folder of your choice
 Open CMD in Run as Administrator Mode or PowerShell in Run as Administrator Mode and run the batch file
 For issues if any eMail @ infosec.at.esupportcorp.com
